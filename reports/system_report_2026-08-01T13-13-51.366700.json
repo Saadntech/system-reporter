@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-08-01T13:13:51.366700",
+  "platform": {
+    "system": "Linux",
+    "release": "6.19.14-200.fc43.x86_64",
+    "machine": "x86_64",
+    "processor": ""
+  },
+  "cpu": {
+    "cores_physical": 10,
+    "cores_logical": 12,
+    "usage_percent": 7.3
+  },
+  "memory": {
+    "total_gb": 15.24,
+    "available_gb": 7.53,
+    "usage_percent": 50.6
+  },
+  "disk": {
+    "total_gb": 474.35,
+    "used_gb": 363.26,
+    "free_gb": 106.27,
+    "usage_percent": 77.4
+  }
+}
